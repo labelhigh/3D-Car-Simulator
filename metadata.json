@@ -1,0 +1,5 @@
+{
+  "name": "3D Car Simulator-V3",
+  "description": "This simulator features a keyboard-controllable block car in a procedurally generated low-poly city, surrounded by vast, mountainous terrain. Explore the dynamic city with moving pedestrians, or venture out onto the mountain pass road. The simulation includes basic physics and collision detection.",
+  "requestFramePermissions": []
+}
